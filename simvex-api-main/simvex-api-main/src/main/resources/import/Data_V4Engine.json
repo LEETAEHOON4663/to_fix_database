@@ -1,7 +1,7 @@
 {
   "project_name": "SIMVEX_PROJECT",
   "base_path": "./Integrated 3D Asset/",
-  "integrated_file": "V4Engine.glb",
+  "integrated_file": "V4_Engine.glb",
   "assets": [
     {
       "id": "Connecting_Rod04",

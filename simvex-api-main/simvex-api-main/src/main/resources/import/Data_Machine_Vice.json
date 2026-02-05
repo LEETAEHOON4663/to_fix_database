@@ -1,7 +1,7 @@
 {
   "project_name": "SIMVEX_PROJECT",
   "base_path": "./Integrated 3D Asset/",
-  "integrated_file": "ViceMachine.glb",
+  "integrated_file": "Vice_Machine.glb",
   "assets": [
     {
       "id": "Part1_Fuhrung",
