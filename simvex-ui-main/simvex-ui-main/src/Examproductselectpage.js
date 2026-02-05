@@ -4,8 +4,8 @@ import "./Shared.css";
 import "./Productlistpage.css";
 
 const FIELD_TO_MODEL_TITLES = {
-  "기계 공학": ["V4_Engine", "Robot Arm", "Robot Gripper", "Machine Vice", "Suspension"],
-  "전기 전자 공학": ["Leaf Spring"],
+  "기계 공학": ["V4_Engine", "Robot_Arm", "Robot_Gripper", "Machine_Vice", "Suspension"],
+  "전기 전자 공학": ["Leaf_Spring"],
   "항공 우주 공학": ["Drone"],
   "재료 과학": ["Suspension"],
   "화학 공학": [],

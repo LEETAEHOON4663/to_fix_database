@@ -9,8 +9,8 @@ import "./Productlistpage.css";
  * 나중에 ModelDto 에 domainKey/categoryKey 추가하면 이 매핑은 제거 가능.
  */
 const FIELD_TO_MODEL_TITLES = {
-  "기계 공학": ["V4_Engine", "Robot Arm", "Robot Gripper", "Machine Vice", "Suspension"],
-  "전기 전자 공학": ["Leaf Spring"], // 임시
+  "기계 공학": ["V4_Engine", "Robot_Arm", "Robot_Gripper", "Machine_Vice", "Suspension"],
+  "전기 전자 공학": ["Leaf_Spring"], // 임시
   "항공 우주 공학": ["Drone"],
   "재료 과학": ["Suspension"], // 임시
   "화학 공학": [], // 임시

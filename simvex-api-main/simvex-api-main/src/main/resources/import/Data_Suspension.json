@@ -1,7 +1,7 @@
 {
   "project_name": "SIMVEX_PROJECT",
   "base_path": "./Integrated 3D Asset/",
-  "integrated_file": "SUSPENSION.glb",
+  "integrated_file": "Suspension.glb",
   "assets": [
     {
       "id": "BASE",
